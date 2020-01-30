@@ -1,0 +1,63 @@
+.main-div{
+    width: 1300px;
+    margin: 80px;
+}
+.border{
+    border-style: outset;
+}
+.lee{
+    
+    display: inline-block;
+    margin-left: 30px;
+}
+label{
+    font-weight: 700;
+}
+span{
+    color: red;
+}
+.form-group,
+.form-control{
+    width:62%
+}
+.first
+{
+    display: flex;
+    width:310px;
+}
+.msg{
+    position: absolute;
+    margin-top: 40px;
+    display: flex;
+}
+
+.last{
+    position: absolute;
+    margin-left: 250px;
+    width:350px ;
+}
+.msg-last{
+    position: absolute;
+    display: flex;
+}  
+
+button{
+    background-color: red;
+    color: white;
+    width: 200px;
+    height:50px;
+    margin-left:60px;
+}
+.signup{
+    color:red;
+    font-size: 30px;
+    font-weight: 600;
+}
+.arrow,
+.fas{
+    position: absolute;
+    font-size: 25px;
+    margin-top: 6px;
+    margin-left: -20px;
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+
+button{
+    background-color:red;
+    color: white;
+    width: 200px;
+    height:50px;
+    margin-left:60px;
+}
+.signup{
+    color:black;
+    font-size: 30px;
+    font-weight: 600;
+}
+.form-label-group{
+    width:50%;
+}
+.maindiv{
+    width:10px;
+}

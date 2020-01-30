@@ -1,0 +1,56 @@
+.main-div{
+    width: 1300px;
+    margin: 80px;
+}
+label{
+    font-weight: 700;
+}
+span{
+    color: red;
+}
+.form-group,
+.form-control{
+    width:62%
+}
+.first
+{
+    display: flex;
+    width:310px;
+}
+.msg{
+    position: absolute;
+    margin-top: 40px;
+    display: flex;
+}
+
+.last{
+    position: absolute;
+    margin-left: 350px;
+    width:310px ;
+}
+.msg-last{
+    position: absolute;
+    display: flex;
+}  
+
+.main-div button{
+    background-color: red;
+    color: white;
+    width: 150px;
+    height:35px;
+    margin-left: 260px;
+}
+.signup{
+    
+    font-size: 10px;
+    font-weight:70;
+}
+.arrow,
+.fas{
+    position: absolute;
+    font-size: 25px;
+    margin-top: 6px;
+    margin-left: -20px;
+    cursor: pointer;
+}
+
